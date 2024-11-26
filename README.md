@@ -1,5 +1,8 @@
 # cca42005
-def get_digit_position_signature(num):
+
+
+
+    def get_digit_position_signature(num):
     """
     Generate a signature for a number based on the positions of its digits.
     The signature is a dictionary mapping each digit to a set of positions.
